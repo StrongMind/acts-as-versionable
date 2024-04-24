@@ -5,7 +5,7 @@ require_relative "lib/acts_as_versionable/version"
 Gem::Specification.new do |spec|
   spec.name = "acts_as_versionable"
   spec.version = ActsAsVersionable::VERSION
-  spec.authors = ["Maxwell Creamer"]
+  spec.authors = ["Maxwell Creamer", "Josh Brito", "Paul Shippy"]
   spec.email = ["maxwell.creamer@strongmind.com"]
 
   spec.summary = "TODO: Write a short summary, because RubyGems requires one."
